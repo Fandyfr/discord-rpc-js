@@ -1,0 +1,11 @@
+{
+  "name": "discord-rpc-custom",
+  "version": "1.0.0",
+  "main": "rpc.js",
+  "scripts": {
+    "start": "node rpc.js"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
