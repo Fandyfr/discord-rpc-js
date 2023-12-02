@@ -47,4 +47,4 @@ $ node rpc.js
 Jika Sudah terhubung pastikan discord anda harus aktif agar rpc tetap menyala!!
 
 ## LICENSE
-[LICENSE] (LICENSE)
+[GNU General Public License v2.0](LICENSE)
