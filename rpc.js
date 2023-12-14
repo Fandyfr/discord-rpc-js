@@ -1,6 +1,6 @@
 const { Client } = require('discord-rpc');
 
-const clientId = 'ID Apiklasi Bot Disocrd';
+const clientId = 'ID Apiklasi Bot Discord';
 const rpc = new Client({ transport: 'ipc'});
 
 process.on('SIGINT', () => {
@@ -26,7 +26,7 @@ const getLocalTimestamp = () => {
   return Math.floor(now.getTime() / 1000);
 };
 
-// Rich presence buatan FandyFr
+// Rich Presence buatan FandyFr
 
 rpc.on('ready', () => {
     console.log('RPC buatan Fandy Berhasil Terhubung Ke Server!!!');
