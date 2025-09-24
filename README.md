@@ -41,6 +41,7 @@ Lalu ikuti cara ini:
 
 ```
 $ cd $PATH
+$ npm install
 $ node rpc.js
 ```
 
